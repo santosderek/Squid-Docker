@@ -6,7 +6,7 @@
 
 ### If you want user verification: 
 
-Change Line 7: 
+*Change Line 7:*
 
 UserNameHere to username of your choice. 
 
